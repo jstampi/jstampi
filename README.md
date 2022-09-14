@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jstampi
-- 👀 I’m interested in cloud technologies, Fullstak development under MERN, etc
+- 👀 I’m interested in hybrid-cloud and cloud technologies, Fullstack development under MERN, IoT,  etc.
 - 🌱 I’m currently learning MERN and GCP
 - 💞️ Eventually, I’m looking to collaborate on on sports program web app, computer vision, health sensing and sports data science
 - 📫 How to reach me ...(not yet)
